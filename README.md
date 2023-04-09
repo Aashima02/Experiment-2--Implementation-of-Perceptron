@@ -121,6 +121,29 @@ plt.ylabel('Errors')
 plt.show()
 ```
 
+## OUTPUT:
+
+### Dataset:
+
+![dataset](https://user-images.githubusercontent.com/93427086/230787807-8785ed72-935b-4e1c-8f2c-735a1ad67777.png)
+
+### Scatter Plot:
+
+![scatterplot](https://user-images.githubusercontent.com/93427086/230787848-bb1e9c1a-0af9-4dd6-88a9-51f308041f09.png)
+
+### Error Plot:
+
+![Errorplot](https://user-images.githubusercontent.com/93427086/230787900-606035e6-2045-4075-a8cf-3a9cc24c6cae.png)
+
+### Accuracy:
+
+![accuracy](https://user-images.githubusercontent.com/93427086/230787933-547502e3-402f-45fc-b71f-e1716a4a15b0.png)
+
+## RESULT:
+
+Thus a perceptron for classification is implemented using python
+
+
 
 
 
